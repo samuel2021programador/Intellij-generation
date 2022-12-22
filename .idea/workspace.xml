@@ -4,38 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7636251-53e7-47e4-8970-abc2908c1296" name="Changes" comment="generation exercicios">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiraClasse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContaBancaria/TesteContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContaBancaria/contabancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Eletronico/Airfrayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teste/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teste/TesteCarro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aviao/Aviao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aviao/TesteAviao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doWhile/doWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doWhile/exercicios5repeticaodowhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcionario/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcionario/TesteFuncionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introducaoJavaSequencial/introducaoJavaSequencial1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introducaoJavaSequencial/seque3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introducaoJavaSequencial2/seque2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacoscondicionais/exe3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacoscondicionais/exerxicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacoscondicionais/lacoscondicionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacoscondicionais/swithCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacosrepeticao/exercicio1lacorepeticao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacosrepeticao/lacoFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacowhile/lacowhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pessoa.java" afterDir="false" />
+    <list default="true" id="d7636251-53e7-47e4-8970-abc2908c1296" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +54,16 @@
       <option name="presentableId" value="Default" />
       <updated>1670503193632</updated>
       <workItem from="1670503195305" duration="12207000" />
-      <workItem from="1671622184834" duration="22717000" />
+      <workItem from="1671622184834" duration="23615000" />
     </task>
+    <task id="LOCAL-00001" summary="generation exercicios">
+      <created>1671744227474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671744227475</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
