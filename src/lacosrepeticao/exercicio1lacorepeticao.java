@@ -1,7 +1,7 @@
 package lacosrepeticao;
 
 public class exercicio1lacorepeticao {
-    //informar todos os numeros de 1000 a 1999 que quando dividido por 11
+    //1 - informar todos os numeros de 1000 a 1999 que quando dividido por 11
     //obtemos resto = 5. (for)
 
     public static void main(String[] args){
