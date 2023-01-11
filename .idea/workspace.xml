@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7636251-53e7-47e4-8970-abc2908c1296" name="Changes" comment="">
+    <list default="true" id="ee35d019-c037-45f2-b9c1-db87d66260df" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lacoDeDecisao/LacoDeDecisao1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lacoDeDecisao/LacoDeDecisao2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lacoDeDecisao/LacoDeDecisao3.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +28,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2IdEiQRuNk1a30VUtjTVjru5VoF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2JrOoUspdRVGm6n6Ea8aSUceNOX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,42 +37,130 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ACB_VOSTRO/primeiraClasse",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "copyright",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.TesteCursos">
+    <configuration name="AnimalTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projetoanimal.AnimalTeste" />
+      <module name="primeiraClasse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projetoanimal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteControleremoto" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controleremoto.TesteControleremoto" />
+      <module name="primeiraClasse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controleremoto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCursos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revisaoJava.TesteCursos" />
+      <module name="primeiraClasse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="revisaoJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteRuidosAnimais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projetoanimal.TesteRuidosAnimais" />
+      <module name="primeiraClasse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projetoanimal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteCursos" />
+        <item itemvalue="Application.TesteRuidosAnimais" />
+        <item itemvalue="Application.AnimalTeste" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d7636251-53e7-47e4-8970-abc2908c1296" name="Changes" comment="" />
-      <created>1670503193632</created>
+      <changelist id="ee35d019-c037-45f2-b9c1-db87d66260df" name="Changes" comment="" />
+      <created>1672832958853</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670503193632</updated>
-      <workItem from="1670503195305" duration="12207000" />
-      <workItem from="1671622184834" duration="23615000" />
+      <updated>1672832958853</updated>
+      <workItem from="1672832961798" duration="14059000" />
+      <workItem from="1672939044463" duration="229000" />
+      <workItem from="1672939327139" duration="1867000" />
+      <workItem from="1672941440511" duration="4606000" />
+      <workItem from="1673436123983" duration="29000" />
+      <workItem from="1673436238235" duration="29000" />
+      <workItem from="1673436331780" duration="212000" />
     </task>
-    <task id="LOCAL-00001" summary="generation exercicios">
-      <created>1671744227474</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1671744227475</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="generation exercicios" />
-    <option name="LAST_COMMIT_MESSAGE" value="generation exercicios" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/out/production/primeiraClasse/controleremoto/ControleRemoto.class</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
